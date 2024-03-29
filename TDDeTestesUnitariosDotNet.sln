@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewTalent", "NewTalent\NewTalent.csproj", "{D5C7E5ED-1585-48B3-89A4-55B64E49013A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewTalentTeste", "NewTalentTeste\NewTalentTeste.csproj", "{A2DC817A-DD6D-4D60-A22D-0BB2577A559B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C7E5ED-1585-48B3-89A4-55B64E49013A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C7E5ED-1585-48B3-89A4-55B64E49013A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C7E5ED-1585-48B3-89A4-55B64E49013A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C7E5ED-1585-48B3-89A4-55B64E49013A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DC817A-DD6D-4D60-A22D-0BB2577A559B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DC817A-DD6D-4D60-A22D-0BB2577A559B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DC817A-DD6D-4D60-A22D-0BB2577A559B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DC817A-DD6D-4D60-A22D-0BB2577A559B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {664F016B-BF4E-467B-B5F7-A884F9925DF2}
+	EndGlobalSection
+EndGlobal

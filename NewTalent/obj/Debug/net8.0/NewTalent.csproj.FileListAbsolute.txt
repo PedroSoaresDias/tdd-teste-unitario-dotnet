@@ -1,0 +1,14 @@
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\bin\Debug\net8.0\NewTalent.exe
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\bin\Debug\net8.0\NewTalent.deps.json
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\bin\Debug\net8.0\NewTalent.runtimeconfig.json
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\bin\Debug\net8.0\NewTalent.dll
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\bin\Debug\net8.0\NewTalent.pdb
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\NewTalent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\NewTalent.AssemblyInfoInputs.cache
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\NewTalent.AssemblyInfo.cs
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\NewTalent.csproj.CoreCompileInputs.cache
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\NewTalent.dll
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\refint\NewTalent.dll
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\NewTalent.pdb
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\NewTalent.genruntimeconfig.cache
+C:\Users\pedro\TDDeTestesUnitariosDotNet\NewTalent\obj\Debug\net8.0\ref\NewTalent.dll
